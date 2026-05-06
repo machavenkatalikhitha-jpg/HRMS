@@ -1,0 +1,23 @@
+{
+  "overview": "Enterprise B2B Manpower Services marketing website with multi-page routing, contact form, SEO, mobile navigation, analytics, and a WhatsApp floating button.",
+  "features": [
+    "Multi-page navigation (Home, About Us, Services, Industries, Contact Us)",
+    "Contact form with validation and API submission",
+    "SEO meta tags on every page",
+    "Mobile hamburger menu",
+    "Loading skeletons and error boundary",
+    "Google Analytics GA4 integration",
+    "WhatsApp floating action button"
+  ],
+  "category": "marketing",
+  "tags": [
+    "b2b",
+    "marketing",
+    "manpower",
+    "staffing",
+    "enterprise",
+    "contact-form",
+    "seo"
+  ],
+  "last_updated": "2026-05-06T04:56:16.004Z"
+}
